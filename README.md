@@ -1,13 +1,13 @@
 # DLSchool projects
-[Deep Learning Shool](https://www.dlschool.org)2018-2019
+[Deep Learning Shool](https://www.dlschool.org) - 2018-2019
 
-##Kaggle competition on rcognition Simpsons
+## Kaggle competition on recognition Simpsons
 
 [Kaggle competition](https://www.kaggle.com/c/journey-to-springfield) - 33rd place
 
 [Solution notebook](conv_net_simpsons.ipynb)
 
-##GAN pineapples
+## GAN pineapples
 
 Training a GAN to draw pineapples
 
@@ -15,7 +15,7 @@ Training a GAN to draw pineapples
 
 [Notebook](Gan_sketchs_pineapples.ipynb)
 
-##VQA
+## VQA
 Dataset - [DAQUAR](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/visual-turing-challenge/)
 
 [Notebook](vqa.ipynb)
